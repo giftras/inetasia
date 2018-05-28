@@ -1,0 +1,19 @@
+.button{
+	 background-color: #6fb4fc;
+	/* box-shadow: 5px 5px 5px 5px #000;*/
+	border: 3px solid #fff;
+
+}
+.rate{
+	color: #fff;
+}
+
+.unchecked {
+	color: #acd2f7;
+}
+.btncover{
+	
+	border: 1px solid #000;
+	display: inline-block;
+	border-radius: 5px;
+}
